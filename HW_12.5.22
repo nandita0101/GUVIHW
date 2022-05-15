@@ -1,0 +1,56 @@
+//For the given JSON iterate over all for loops (for, for in, for of, forEach)
+//Create your own resume data in JSON format
+
+//HW Part 1
+No JSON given.
+
+//HW Part 2
+{}resume.json
+
+  personalDetails: {
+     "firstName": "Nandita",
+     "lastName": "Krishnamurthy",
+     "username": "nanditak",
+     "email": "krishnamurthynandita@gmail.com",
+     "address": {
+         "flat": "B-128",
+         "street": "Ganga Apartments",
+         "locality": "Alaknanda",
+         "city": "New Delhi",
+         "zipcode": "110019",
+     },
+     "phone": [9911543245, 01123371440],
+     "website": "www.therivermeetstheocean.wordpress.com",
+  },
+   "employmentDetails": {
+     "company1": {
+         "name": "Guerrilla Buzz",
+         "tenure": {start: 2021, end: "present"},
+         "role": "editor",
+         },
+     "company2": {
+         "name": "Oxford University Press",
+         "tenure": {start: 2018, end: 2020},
+         "role": "desk editor",
+   },
+   }
+   
+   "education": {
+      "masters": {
+        "university": "Delhi University",
+        "college": "Gargi College",
+        "result": "1st division",
+      },
+      "bachelors": {
+        "university": "Delhi University",
+        "college": "Gargi College",
+        "result": "1st division",
+      },
+      "school": {
+        "name": "Mater Dei School",
+        "board": "CBSE",
+        "result": "90%",
+      }
+   }
+
+
